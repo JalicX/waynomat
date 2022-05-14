@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang=de>
+    <head>
+      <meta charset="utf-8">
+        <title>Waynomat</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/landing.css') }}">
+    </head>
+    <body>
+        <div class="outer">
+            <div id=c0ntent>
+                Wanna Play?
+                <a href = "{{ url_for('result') }}"><button type="button" method = "post">Click Me!</button> </a>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,27 @@
+html {
+    font-family: sans-serif;
+    background: rgb(105,105,105);
+    color: #181818;
+    
+
+}
+
+#outer {
+    display: flex;
+    height: 70vh;
+    
+    /*justify-content: center;
+    flex-direction:row;
+    align-items: center;*/
+}
+
+#c0ntent {
+    
+    color: #ff0097;
+    color: #1e7145;
+    width: 100vh;
+    height: 70vh;
+    /*position: absolute;*/
+    background: #ff0097;
+    margin: auto;
+}

@@ -1,0 +1,88 @@
+parteien:
+  1:
+    name:   'Christlich Demokratische Union Deutschlands'
+    short:  'CDU'
+  2:
+    name:   'Sozialdemokratische Partei Deutschlands'
+    short:  'SPD'
+  3:
+    name:   'Freie Demokratische Partei'
+    short:  'FDP'
+  4:
+    name:   'Alternative für Deutschland'
+    short:  'AfD'
+  5:
+    name:   'BÜNDNIS 90/DIE GRÜNEN'
+    short:  'GRÜNE'
+  6:
+    name:   'DIE LINKE'
+    short:  'DIE LINKE'
+  7:
+    name:   'Piratenpartei Deutschland'
+    short:  'PIRATEN'
+  8:
+    name:   'Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative'
+    short:  'Die PARTEI'
+  9:
+    name:   'FREIE WÄHLER'
+    short:  'FREIE WÄHLER'
+  10:
+    name:   'Bündnis für Innovation & Gerechtigkeit'
+    short:  'BIG'
+  11:
+    name:   'Ökologisch-Demokratische Partei'
+    short:  'ÖDP'    
+  12:
+    name:   'Ab jetzt...Demokratie durch Volksabstimmung - Politik für die Menschen'
+    short:  'Volksabstimmung'
+  13:
+    name:   'Marxistisch-Leninistische Partei Deutschlands'
+    short:  'MLPD'
+  14:
+    name:   'Die Violetten'
+    short:  'DIE VIOLETTEN'
+  15:
+    name:   'Partei für Gesundheitsforschung'
+    short:  'Gesundheitsforschung'
+  16:
+    name:   'Deutsche Zentrumspartei - Älteste Partei Deutschlands gegründet 1870'
+    short:  'ZENTRUM'
+  17:
+    name:   'Deutsche Kommunistische Partei'
+    short:  'DKP'
+  18:
+    name:   'Basisdemokratische Partei Deutschlands'
+    short:  'dieBasis'
+  19:
+    name:   'Deutsche Sport Partei'
+    short:  'DSP'
+  20:
+    name:   'Die Urbane. Eine HipHop Partei'
+    short:  'du.'    
+  21:
+    name:   'Europäische Partei LIEBE'
+    short:  'LIEBE'
+  22:
+    name:   'Familien-Partei Deutschlands'
+    short:  'FAMILIE'
+  23:
+    name:   'neo. Wohlstand für alle'
+    short:  'neo'
+  24:
+    name:   'Partei der Humanisten'
+    short:  'Die Humanisten'
+  25:
+    name:   'Partei des Fortschritts'
+    short:  'PdF'    
+  26:
+    name:   '>> Partei für Kinder, Jugendliche und Familie << - Lobbyisten für Kinder'
+    short:  'LfK'
+  27:
+    name:   'PARTEI MENSCH UMWELT TIERSCHUTZ'
+    short:  'Tierschutzpartei'
+  28:
+    name:   'Team Todenhöfer - Die Gerechtigkeitspartei'
+    short:  'Team Todenhöfer'
+  29:
+    name:   'Volt Deutschland'
+    short:  'Volt'
